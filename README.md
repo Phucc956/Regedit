@@ -1,2 +1,2 @@
 # Regedit
-Regedit Free Fire BlueStacks
+Regedit FreeFire BlueStacks
